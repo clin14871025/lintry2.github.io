@@ -1,0 +1,48 @@
+html {
+    background-color: lightskyblue;
+    font-size: 15px;
+    font-family:'Shadows Into Light', cursive;
+}
+p {
+    color: purple;
+    width: 300px;
+    border: 100px black;
+}
+li {
+    color: pink
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: palevioletred;
+    text-shadow: cornflowerblue;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: palevioletred;
+}
+p {
+    fontsize: 300px;
+    line-height: normal;
+    color: lightcoral;
+}
+li {
+    fontsize: 100px;
+    line-height: normal;
+    letter-spacing: normal;
+    color: paleturquoise;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: lightslategrey;
+    padding: 0 20px 20px 20px;
+    border: 10px black;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
